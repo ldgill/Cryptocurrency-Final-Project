@@ -1,0 +1,17 @@
+<data>
+  <voter userId="1">
+    <info dob="08/21/1996" email="Jared.Marks@colorado.edu" firstname="Jared" lastname="Marks" ss="12345678"/>
+    <registration registerDate="05/01/19" valid="True"/>
+    <elections>
+      <election key="Midterm ">32dqw38hdqqa9312sd</election>
+    </elections>
+  </voter>
+  <voter userId="2">
+    <info dob="02/16/1997" email="Lianne.Gill@colorado.edu" firstname="Lianne" lastname="Gill" ss="12345678"/>
+    <registration registerDate="05/02/2019" valid="True"/>
+  </voter>
+  <voter userId="3">
+    <info dob="03/28/1996" email="Khalid.Almeer@colorado.edu" firstname="Khalid" lastname="Almeer" ss="12345678"/>
+    <registration registerDate="05/02/2019" valid="True"/>
+  </voter>
+</data>
